@@ -1,3 +1,6 @@
-first file
+
+confict-2 write some text and modify next line content.
+
+confict-2 file
 
 this is a first file, but nothing in this file.

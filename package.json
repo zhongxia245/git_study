@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/zhongxia245/git_study/issues"
   },
-  "homepage": "https://github.com/zhongxia245/git_study#readme"
+  "homepage": "https://github.com/zhongxia245/git_study#readme",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
 }
